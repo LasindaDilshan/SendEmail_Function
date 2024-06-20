@@ -11,7 +11,7 @@ variables:
   azureSubscription: '9fefe283-2a8e-44f0-8b4b-c9a8f29cfb1f'
 
   # Function app name
-  functionAppName: ''
+  functionAppName: 'sendemail'
 
   # Agent VM image name
   vmImageName: 'windows-2019'
